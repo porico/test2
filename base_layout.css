@@ -1,2 +1,8 @@
 /* base_layout */
 /* 全現法共通 */
+
+/* MMP-001で追加 ここから */
+.content {
+	display: block;
+}
+/* MMP-001で追加 ここまで */
