@@ -6,3 +6,9 @@
 	display: block;
 }
 /* MMP-001で追加 ここまで */
+
+/* MMP-002で追加 ここから */
+.content {
+	color: #333;
+}
+/* MMP-002で追加 ここまで */
